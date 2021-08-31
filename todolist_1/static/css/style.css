@@ -1,0 +1,34 @@
+body {
+  background-color: lightskyblue;
+}
+#button {
+  font-family: "Courier New", Courier, monospace;
+
+  font-weight: bolder;
+  background-color: blue;
+  color: white;
+}
+h4 {
+  font-family: "Courier New", Courier, monospace;
+  margin-left: 410px;
+  font-weight: 800;
+  color: white;
+}
+.mb-3 {
+  font-family: "Courier New", Courier, monospace;
+}
+h5 {
+  margin-left: 430px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  color: white;
+}
+#submit {
+  background-color: blue;
+  margin-left: 450px;
+  font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+}
+.head {
+  font-family: "Courier New", Courier, monospace;
+}
